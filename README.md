@@ -55,6 +55,66 @@ A passionate Full Stack Developer from India 🇮🇳
 
 ---
 
+## 📈 Technology Proficiency
+
+### Frontend
+<table>
+<tr>
+<td><b>React</b></td>
+<td><img alt="React" src="https://img.shields.io/badge/Advanced-90%25-61DAFB?style=flat-square&logo=react&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>JavaScript</b></td>
+<td><img alt="JavaScript" src="https://img.shields.io/badge/Advanced-85%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+</tr>
+<tr>
+<td><b>HTML5</b></td>
+<td><img alt="HTML5" src="https://img.shields.io/badge/Expert-95%25-E34C26?style=flat-square&logo=html5&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>CSS3</b></td>
+<td><img alt="CSS3" src="https://img.shields.io/badge/Advanced-88%25-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>Tailwind CSS</b></td>
+<td><img alt="Tailwind" src="https://img.shields.io/badge/Advanced-87%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
+</tr>
+</table>
+
+### Backend
+<table>
+<tr>
+<td><b>Node.js</b></td>
+<td><img alt="Node.js" src="https://img.shields.io/badge/Advanced-88%25-339933?style=flat-square&logo=node.js&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>Express</b></td>
+<td><img alt="Express" src="https://img.shields.io/badge/Advanced-85%25-000000?style=flat-square&logo=express&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>Flask</b></td>
+<td><img alt="Flask" src="https://img.shields.io/badge/Intermediate-75%25-000000?style=flat-square&logo=flask&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>Python</b></td>
+<td><img alt="Python" src="https://img.shields.io/badge/Intermediate-78%25-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+</tr>
+</table>
+
+### Databases
+<table>
+<tr>
+<td><b>MongoDB</b></td>
+<td><img alt="MongoDB" src="https://img.shields.io/badge/Advanced-82%25-13AA52?style=flat-square&logo=mongodb&logoColor=white"/></td>
+</tr>
+<tr>
+<td><b>MySQL</b></td>
+<td><img alt="MySQL" src="https://img.shields.io/badge/Intermediate-80%25-4479A1?style=flat-square&logo=mysql&logoColor=white"/></td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
